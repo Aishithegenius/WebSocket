@@ -1,6 +1,6 @@
 import socket  
 import hashlib 
-import requests  # For HTTP requests
+import requests 
 import httplib2  # For advanced HTTP requests
 
 # Socket communication setup
